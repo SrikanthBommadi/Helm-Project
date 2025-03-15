@@ -1,0 +1,4 @@
+statefulset:
+  replicas: 2
+  image: joindevops/mysql:1.0.0
+  storage: 1Gi  
