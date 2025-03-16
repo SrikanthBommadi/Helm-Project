@@ -1,4 +1,4 @@
 hpa:
-  utilization: 5
+  utilisation: 5
 deployment:
   replicas: 1
